@@ -1,1 +1,1 @@
-record the learning process of GAMES103
+record the learning process of physical simulation
